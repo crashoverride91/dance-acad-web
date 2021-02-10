@@ -89,5 +89,34 @@ li{
 
     background-color: honeydew;
     width:500px;
-    height:500px;
+    height:auto;
+}
+
+
+.text-card{
+
+    text-align: justify;
+}
+
+
+
+
+
+
+/* Footer */
+
+.mastfoot{
+
+    background-color: rgb(42, 41, 41);
+    color:white;
+    padding-top:10px;
+    padding-bottom:20px;
+    height: 100%;
+}
+
+.betbutton{
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+    
 }
